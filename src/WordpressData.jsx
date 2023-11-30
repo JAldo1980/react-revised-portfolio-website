@@ -2,7 +2,8 @@ export default [
   {
     headline: "Art e-Shop Website",
     label: "Wordpress",
-    description: "Text will go here for the WordPress build...",
+    description:
+      "Using a WordPress template builder I put together a small eShop, helping my understand and practice the structure of WooCommerce.",
     tech: ["WooCommerce", "Elementor"],
     buttonOne: "https://snr.uel.mybluehost.me/.website_154db3e1/",
     image: "public/wordpress-david-alderman-removebg-preview.png",
@@ -10,7 +11,8 @@ export default [
   {
     headline: "Personal Academic Website",
     label: "Wordpress",
-    description: "Text will go here for the WordPress build...",
+    description:
+      "Created a simple, responsive personal website for an academic.",
     tech: ["Elementor Pro"],
     buttonOne: "https://petraalderman.com/",
     image: "public/wordpress-petra-img.png",

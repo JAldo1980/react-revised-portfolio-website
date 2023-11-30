@@ -1,5 +1,5 @@
 import React from "react";
-import ProjectData from "/src/ProjectData.jsx";
+import ProjectData from "../src/ProjectData.jsx";
 import Project from "/components/Project.jsx";
 
 export default function Work() {

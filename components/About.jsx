@@ -7,36 +7,41 @@ export default function About() {
         <h2>About</h2>
         <p>Hi, welcome to my portfolio 😊.</p>
         <br></br>
-        <p>Current tech used: Node, React, JavaScript, CSS, HTML</p>
-        <br></br>
         <p>
-          I continue to develop my React JS skills and knowledge with the aim of
-          working towards creating MERN stack applications - insuring I have the
-          ability to be able to create solutions for business problems.
+          Current tech used: <strong>Node, React, JavaScript, CSS, HTML</strong>
         </p>
         <br></br>
         <p>
-          My interest in web development began during my university days, where
-          I built blogs using WordPress.com. Since then, I have worked with
-          various Content Management Systems such as Squarespace, WIX, and
-          Webflow.
+          In my ongoing professional development, I am actively honing my
+          expertise in Node, React, JavaScript, CSS, and HTML. My primary
+          objective is to advance towards proficiently crafting MERN stack
+          applications, ensuring a robust capability to provide effective
+          solutions for diverse business challenges.
         </p>
         <br></br>
         <p>
-          This sparked my curiosity about the technologies behind those CMS
-          platforms and how they functioned. While running a Limited company in
-          digital recruitment, I witnessed the immense power and potential of
-          web development and the tech industry as a whole.
+          My initiation into web development traces back to my university years,
+          during which I constructed blogs using WordPress.com. This initial
+          exposure evolved into hands-on experience with various Content
+          Management Systems, including Squarespace and WIX. Intrigued by the
+          underlying technologies powering these CMS platforms and their
+          intricate functionalities, I recognised the transformative potential
+          of web development and the broader tech industry.
         </p>
         <br></br>
         <p>
-          Inspired by this realisation, I embarked on a self-taught journey to
-          become a front-end web developer.
+          This realisation became particularly evident during my tenure as the
+          founder of a Limited company specialising in digital recruitment.
+          Observing firsthand the profound impact of web development and
+          technology on business operations fuelled my determination to
+          transition into a front-end web developer.
         </p>
         <br></br>
         <p>
-          In addition, I am also a qualified and experienced digital marketer -
-          which can always come in handy! Thank you for reading.
+          Complementing my technical skills, I bring a wealth of expertise as a
+          qualified and seasoned digital marketer, adding a valuable dimension
+          to my professional profile. I appreciate your time in considering my
+          journey and aspirations. Thank you for reading! 😊
         </p>
       </div>
     </div>

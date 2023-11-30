@@ -1,19 +1,19 @@
 export default [
   {
     headline: "Small Business Landing Page",
-    label: "JavaScript",
+    label: "REACT.JS",
     description:
-      "Glow is a small business with a focus on deliving LinkedIn personal branding services and professional personal websites for the individual.",
+      "This project allowed me to build upon my React learning. Implemented state management in the application, utilising React's state mechanism to handle and update the dynamic content of the user interface. Incorporated local data files to store and retrieve data within the application. I also implemented state management in the application, utilising React's state mechanism to handle and update the dynamic content of the user interface. Plus, used 'props' to ensure a modular and maintainable structure. A fun project to build!",
     tech: ["React", "Node", "JavaScript"],
     buttonOne: "https://github.com/JAldo1980/small-business-landing-page",
-    buttonTwo: "https://jaldo1980.github.io/small-business-landing-page/",
+    buttonTwo: "https://glow-small-business.netlify.app/",
     image: "public/glow-landing-page-removebg-preview.png",
   },
   {
     headline: "Invoice Builder",
     label: "JavaScript",
     description:
-      "The invoice builder allows users to create and print invoices. Users can input item details such as name, cost, and quantity, which are then dynamically added to the invoice. The invoice builder code simplifies the process of generating professional invoices for various business needs.",
+      "This project tested my form validation, array manipulation and event handling. The invoice builder allows users to create and print invoices. Users can input item details such as name, cost, and quantity, which are then dynamically added to the invoice. The invoice builder code simplifies the process of generating professional invoices for various business needs.",
     tech: ["Array Manipulation", "Event Handling", "DOM Manipulation"],
     buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
     buttonTwo: "https://invoice-it-up.netlify.app/",
@@ -25,7 +25,7 @@ export default [
     label: "JavaScript",
     description:
       "My challenge was to build out a landing page and get it looking as close to the design as possible. The challenge was created by Frontend Mentor, using their detailed Figma file as a design guide. Flex-box and Grid would come in handly as well as utilising background images. My methodology for this project focuses on ‘mobile-first’ design principles.",
-    tech: ["CSS", "HTML", "Responsive Design"],
+    tech: ["CSS", "HTML", "Responsive Design, Flexbox, Grid, Figma"],
     buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
     buttonTwo: "https://helpful-bublanina-545078.netlify.app/",
     image: "public/elearning-landing-page-img-removebg-preview.png",
@@ -34,8 +34,8 @@ export default [
     headline: "Music App Landing Page",
     label: "JavaScript",
     description:
-      "Brief: Your challenge is to build out this landing page and get it looking as close to the design as possible. I also wanted the landing page to closely follow the brief detailed by Frontend Mentor (using their detailed Figma file). Flex-box and Grid would come in handly as well as utilising background images. My methodology for this project focuses on ‘mobile-first’ design principles.",
-    tech: ["CSS", "HTML", "Responsive Design"],
+      "With thi sbuild, the challenge was to build out a landing page and get it looking as close to the Figma design as possible. I also wanted the landing page to closely follow the brief detailed by Frontend Mentor (using their detailed Figma file). Flex-box and Grid would come in handly as well as utilising background images. Similar to the above project, my methodology for this project focuses on ‘mobile-first’ design principles.",
+    tech: ["CSS", "HTML", "Responsive Design, , Grid, Flexbox, Figma"],
     buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
     buttonTwo: "https://kaleidoscopic-bubblegum-a389e7.netlify.app/",
     image: "public/music-app_landing_page__1_-removebg-preview.png",
@@ -45,7 +45,7 @@ export default [
     headline: "Agency Landing Page",
     label: "JavaScript",
     description:
-      "Social media agency landing page using JavaScript to effectively guide potential clients towards the business contact form. The focus was on creating a seamless and efficient user experience, so I opted for a single, continuous scrolling page design to eliminate distractions and keep the user engaged.",
+      "Mobile navigaion and responsive design were key requirements with this build. Social media agency landing page using JavaScript to effectively guide potential clients towards the business contact form. The focus was on creating a seamless and efficient user experience, so I opted for a single, continuous scrolling page design to eliminate distractions and keep the user engaged.",
     tech: ["JavaScript", "Flexbox", "Grid", "Media Queries"],
     buttonOne: "https://github.com/JAldo1980/agency-landing-page",
     buttonTwo: "https://watson-your-socials.netlify.app/",
@@ -55,18 +55,25 @@ export default [
     headline: "eCommerce Product Landing Page",
     label: "JavaScript",
     description:
-      "Instagram clone created to practice exporting JavaScript files and identifying individual objects.",
-    tech: ["uuid", "Template literals", "forEach", ".filter", "export"],
-    buttonOne: "https://github.com/JAldo1980/grazeagram",
-    buttonTwo: "https://graze-a-gram.netlify.app/",
+      "A small but technical build. With this, I leveraged the Document Object Model (DOM) to dynamically update the content of HTML elements based on user interactions. Implemented conditional rendering to display different product images based on the clicked thumbnail, and to adjust the cart modal content based on whether the cart is empty or contains items. Managed variables like setNumber, cartEmpty, and notification to keep track of the selected quantity, cart status, and added products, respectively.",
+    tech: [
+      "uuid",
+      "Conditional logic",
+      "Template literals",
+      "forEach",
+      ".filter",
+      "export",
+    ],
+    buttonOne: "https://github.com/JAldo1980/e-commerce-website",
+    buttonTwo: "https://silver-daifuku-d35f24.netlify.app/",
     image: "public/e-commerce_img-removebg-preview.png",
   },
   {
     headline: "Travel Info Website",
     label: "JavaScript",
     description:
-      "During a recent trip to Thailand I needed a quick way to covert currency. I took the opportunity to code a handy app quickly, to use on the go. ",
-    tech: ["Responsive Design", "Radio Btns", "inputs"],
+      "A fun project. Implemented functions like signup and login to toggle the visibility of signup and login modals, respectively, and dynamically render HTML content within these modals based on user interactions. Utilised template literals to create and insert dynamic HTML content within the signup and login modals, providing a flexible and concise way to structure the modal elements.",
+    tech: ["Responsive Design", "Radio Btns", "inputs", "template literals"],
     buttonOne: "https://github.com/JAldo1980/hike-finder",
     buttonTwo: "https://hike-finder-app.netlify.app/",
     image: "public/hike-finder__1_-removebg-preview.png",
@@ -75,7 +82,7 @@ export default [
     headline: "Chore List",
     label: "JavaScript",
     description:
-      "A ‘to-do’ list type application. This particular project is from the Scrimba bootcamp. I’ve added a number of additional functionalities to the project brief such as 'dark-mode' ect.",
+      "A ‘to-do’ list type application. This particular project is from an online course. I’ve added a number of additional functionalities to the project brief such as local storgae, 'dark-mode' and an mp3 sound file.",
     tech: ["JavaScript", "Local Storage", "Inputs", "Keypress"],
     buttonOne: "https://github.com/JAldo1980/chores-list",
     buttonTwo: "https://your-chore-list.netlify.app/",
@@ -106,7 +113,7 @@ export default [
     headline: "Instagram Clone",
     label: "JavaScript",
     description:
-      "Instagram clone created to practice exporting JavaScript files and identifying individual objects.",
+      "Instagram clone created to practice exporting JavaScript files and identifying individual object ids.",
     tech: ["uuid", "Template literals", "forEach", ".filter", "export"],
     buttonOne: "https://github.com/JAldo1980/grazeagram",
     buttonTwo: "https://graze-a-gram.netlify.app/",
