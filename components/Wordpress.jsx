@@ -1,6 +1,6 @@
 import React from "react";
-import WordpressData from "../src/WordpressData";
-import ProjectWordPress from "../components/ProjectWordpress";
+import WordpressData from "/src/WordpressData";
+import ProjectWordPress from "../components/ProjectWordPress";
 
 export default function Wordpress() {
   const projectElements = WordpressData.map(function (project) {
