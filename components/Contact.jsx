@@ -10,7 +10,7 @@ export default function Contact() {
             {" "}
             <img
               className="linkedin-icon"
-              src="public/linkedin-icon_copy-removebg-preview.png"
+              src="linkedin-icon_copy-removebg-preview.png"
               alt="linkedin icon"
             />
           </a>
@@ -20,7 +20,7 @@ export default function Contact() {
             {" "}
             <img
               className="email-icon"
-              src="public/email-icon-removebg-preview (1).png"
+              src="email-icon-removebg-preview (1).png"
               alt="email icon"
             />
           </a>
