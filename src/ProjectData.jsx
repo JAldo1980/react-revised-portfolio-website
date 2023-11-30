@@ -7,7 +7,7 @@ export default [
     tech: ["React", "Node", "JavaScript"],
     buttonOne: "https://github.com/JAldo1980/small-business-landing-page",
     buttonTwo: "https://glow-small-business.netlify.app/",
-    image: "public/glow-landing-page-removebg-preview.png",
+    image: "/glow-landing-page-removebg-preview.png",
   },
   {
     headline: "Invoice Builder",
@@ -17,7 +17,7 @@ export default [
     tech: ["Array Manipulation", "Event Handling", "DOM Manipulation"],
     buttonOne: "https://github.com/JAldo1980/invoice-builder/tree/main",
     buttonTwo: "https://invoice-it-up.netlify.app/",
-    image: "public/invoice-builder-removebg-preview.png",
+    image: "/invoice-builder-removebg-preview.png",
   },
 
   {
@@ -28,7 +28,7 @@ export default [
     tech: ["CSS", "HTML", "Responsive Design, Flexbox, Grid, Figma"],
     buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
     buttonTwo: "https://helpful-bublanina-545078.netlify.app/",
-    image: "public/elearning-landing-page-img-removebg-preview.png",
+    image: "/elearning-landing-page-img-removebg-preview.png",
   },
   {
     headline: "Music App Landing Page",
@@ -38,7 +38,7 @@ export default [
     tech: ["CSS", "HTML", "Responsive Design, , Grid, Flexbox, Figma"],
     buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
     buttonTwo: "https://kaleidoscopic-bubblegum-a389e7.netlify.app/",
-    image: "public/music-app_landing_page__1_-removebg-preview.png",
+    image: "/music-app_landing_page__1_-removebg-preview.png",
   },
 
   {
@@ -49,7 +49,7 @@ export default [
     tech: ["JavaScript", "Flexbox", "Grid", "Media Queries"],
     buttonOne: "https://github.com/JAldo1980/agency-landing-page",
     buttonTwo: "https://watson-your-socials.netlify.app/",
-    image: "public/project-landing-page-removebg-preview.png",
+    image: "/project-landing-page-removebg-preview.png",
   },
   {
     headline: "eCommerce Product Landing Page",
@@ -66,7 +66,7 @@ export default [
     ],
     buttonOne: "https://github.com/JAldo1980/e-commerce-website",
     buttonTwo: "https://silver-daifuku-d35f24.netlify.app/",
-    image: "public/e-commerce_img-removebg-preview.png",
+    image: "/e-commerce_img-removebg-preview.png",
   },
   {
     headline: "Travel Info Website",
@@ -76,7 +76,7 @@ export default [
     tech: ["Responsive Design", "Radio Btns", "inputs", "template literals"],
     buttonOne: "https://github.com/JAldo1980/hike-finder",
     buttonTwo: "https://hike-finder-app.netlify.app/",
-    image: "public/hike-finder__1_-removebg-preview.png",
+    image: "/hike-finder__1_-removebg-preview.png",
   },
   {
     headline: "Chore List",
@@ -86,7 +86,7 @@ export default [
     tech: ["JavaScript", "Local Storage", "Inputs", "Keypress"],
     buttonOne: "https://github.com/JAldo1980/chores-list",
     buttonTwo: "https://your-chore-list.netlify.app/",
-    image: "public/Chore-list-img-removebg-preview (1).png",
+    image: "/Chore-list-img-removebg-preview (1).png",
   },
   {
     headline: "Random Name Generator",
@@ -96,7 +96,7 @@ export default [
     tech: ["JavaScript", ".map()", "Radio Btns", "inputs"],
     buttonOne: "https://github.com/JAldo1980/name-generator-tool",
     buttonTwo: "https://kill-team-name-generator.netlify.app/",
-    image: "public/warhammer-tool_-removebg-preview.png",
+    image: "/warhammer-tool_-removebg-preview.png",
   },
   {
     headline: "Currency Converter",
@@ -106,7 +106,7 @@ export default [
     tech: [".push", ".toFixed", ".innerHTML", "Boolean"],
     buttonOne: "https://github.com/JAldo1980/baht-converter",
     buttonTwo: "https://thai-baht-pound-converter.netlify.app/",
-    image: "public/currency-list-img-removebg-preview.png",
+    image: "/currency-list-img-removebg-preview.png",
   },
 
   {
@@ -117,6 +117,6 @@ export default [
     tech: ["uuid", "Template literals", "forEach", ".filter", "export"],
     buttonOne: "https://github.com/JAldo1980/grazeagram",
     buttonTwo: "https://graze-a-gram.netlify.app/",
-    image: "public/graze-a-gram-removebg-preview.png",
+    image: "/graze-a-gram-removebg-preview.png",
   },
 ];
