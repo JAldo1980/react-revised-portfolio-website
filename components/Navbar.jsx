@@ -13,7 +13,7 @@ export default function Navbar() {
     <div className="nav-container">
       <a href="#">
         <img
-          src="public/james-alderman-logo-removebg-preview.png"
+          src="james-alderman-logo-removebg-preview.png"
           className="logo-img"
           alt="Logo"
         />
