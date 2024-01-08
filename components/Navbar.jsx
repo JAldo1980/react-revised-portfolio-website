@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Navbar() {
   function handleClick() {
     document.querySelector(".hamburger").classList.toggle("active");
@@ -7,6 +9,15 @@ export default function Navbar() {
   function handleDropdownClick() {
     document.querySelector(".hamburger").classList.remove("active");
     document.querySelector(".drop-down").classList.remove("show");
+  }
+
+  function handleNavLinkClick(targetId) {
+    const targetElement = document.getElementById(targetId);
+
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: "smooth" });
+      handleDropdownClick(); // Close dropdown after click
+    }
   }
 
   return (
@@ -26,24 +37,20 @@ export default function Navbar() {
           <span className="bar"></span>
         </div>
       </div>
+
       {/* mobile nav active */}
       <div className="drop-down">
-        <a href="#about-scroll" onClick={handleDropdownClick}>
-          About
-        </a>
-        <a href="#project-scroll" onClick={handleDropdownClick}>
-          Work
-        </a>
-        <a href="#contact-scroll" onClick={handleDropdownClick}>
-          Contact
-        </a>
+        <a onClick={() => handleNavLinkClick("about-scroll")}>About</a>
+        <a onClick={() => handleNavLinkClick("project-scroll")}>Work</a>
+        <a onClick={() => handleNavLinkClick("contact-scroll")}>Contact</a>
       </div>
+
       <nav>
         <div className="desktop-nav">
           <div className="nav-links">
-            <a href="#about-scroll">About</a>
-            <a href="#project-scroll">Work</a>
-            <a href="#contact-scroll">Contact</a>
+            <a onClick={() => handleNavLinkClick("about-scroll")}>About</a>
+            <a onClick={() => handleNavLinkClick("project-scroll")}>Work</a>
+            <a onClick={() => handleNavLinkClick("contact-scroll")}>Contact</a>
           </div>
         </div>
       </nav>
