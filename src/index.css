@@ -138,9 +138,8 @@ nav {
   left: 0;
   width: 100%;
   padding: 1em;
-  background-color: var(
-    --greenBackground
-  ); /* Replace with your desired background color */
+  /* background-color: RGBA(151, 220, 199, 0.46); */
+  /* Replace with your desired background color */
   z-index: 999; /* Adjust the z-index value as needed */
 }
 
@@ -149,6 +148,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   background-color: var(--greenBackground);
+  border-radius: 10px;
   padding: 1em;
 }
 
@@ -516,13 +516,3 @@ small {
 }
 
 /* SMOOTH SCROLLING */
-
-#home-anchor {
-  scroll-behavior: smooth;
-  cursor: pointer;
-}
-
-#project-scroll {
-  scroll-behavior: smooth;
-  cursor: pointer;
-}

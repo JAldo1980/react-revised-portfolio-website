@@ -22,6 +22,7 @@ export default function Header() {
             src="james-alderman-img-removebg.png"
             alt="picture of James Alderman"
           />
+          <div id="about-scroll"></div>
         </div>
       </div>
     </header>
