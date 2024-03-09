@@ -5,14 +5,15 @@ export default function About() {
     <div className="about-container" id="about-scroll">
       <div className="about-inner-container">
         <h2>About</h2>
-        <p>
-          Hi, Welcome to my portfolio, where my focus is on delivering tangible
-          value to your organisation.
+         <br></br>
+         <p>
+          Current tech used:{" "}
+          <strong>Node, React, JavaScript, Tailwind, CSS, HTML, WordPress</strong>
         </p>
         <br></br>
         <p>
-          Current tech used:{" "}
-          <strong>Node, React, JavaScript, CSS, HTML, WordPress</strong>
+          Hi, Welcome to my portfolio, where my focus is on delivering tangible
+          value to your organisation.
         </p>
         <br></br>
         <p>
