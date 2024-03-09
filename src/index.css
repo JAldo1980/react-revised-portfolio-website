@@ -105,7 +105,7 @@ body {
 
 :root {
   /* colours */
-  --greenBackground: #97dcc7;
+  --greenBackground: #f2c53b;
   --white: #ffffff;
 }
 
@@ -115,13 +115,14 @@ body {
 /* color containers */
 
 .green-container {
-  --greenBackground: #97dcc7;
+  --greenBackground: #f2c53b;
 }
 
 /* CONTAINER STYLING */
 
 .container {
-  background-color: var(--greenBackground);
+/*   background-color: var(--greenBackground); */
+     background-color: #f2c53b;
 }
 
 /* NAVIGATION STYLING */
@@ -147,7 +148,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--greenBackground);
+/*   background-color: var(--greenBackground); */
+     background-color: #f2c53b;
   border-radius: 10px;
   padding: 1em;
 }
@@ -242,7 +244,9 @@ nav {
 /* HEADER STYLING */
 
 header {
-  background-color: var(--greenBackground);
+/*   background-color: var(--greenBackground); */
+     background-color: #f2c53b;
+     
   border: none;
   padding: 1em 1em 0 1em;
 }
