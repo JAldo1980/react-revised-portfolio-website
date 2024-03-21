@@ -25,7 +25,7 @@ export default function About() {
         </p>
         <br></br>
         <p>
-          In addition to my technical knwoledge, I bring a wealth of expertise
+          In addition to my technical knowledge, I bring a wealth of expertise
           as a qualified and seasoned digital marketer, presenting a valuable
           dual skill set. My commitment is to leverage these skills to enhance
           your business objectives, whether it's through creating engaging user
