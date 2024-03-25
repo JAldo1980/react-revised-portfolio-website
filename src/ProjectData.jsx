@@ -1,4 +1,15 @@
 export default [
+
+
+   {
+    headline: "Monzo Bank Clone (Home Page Only)",
+    description:
+      "Focused on replicating UI and proffesional website presentation",
+    tech: ["React", "JavaScript", "Tailwind"],
+    buttonOne: "https://github.com/JAldo1980/monzo-bank-clone",
+    buttonTwo: "https://monzo-clone.netlify.app/",
+    image: "public/monzo-img-removebg-preview.png",
+  },
   {
     headline: "Small Business Landing Page",
     label: "REACT.JS",
