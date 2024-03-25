@@ -3,7 +3,7 @@ export default [
 
    {
     headline: "Monzo Bank Clone (Home Page Only)",
-      label: "REACT.JS",
+   label: "REACT.JS",
     description:
       "Focused on replicating UI and proffesional website presentation",
     tech: ["React", "JavaScript", "Tailwind"],
