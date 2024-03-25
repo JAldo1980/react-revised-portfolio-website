@@ -5,7 +5,7 @@ export default [
     headline: "Monzo Bank Clone (Home Page Only)",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and proffesional website presentation",
+      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind via a Monzo Bank clone",
     tech: ["React", "JavaScript", "Tailwind"],
     buttonOne: "https://github.com/JAldo1980/monzo-bank-clone",
     buttonTwo: "https://monzo-clone.netlify.app/",
