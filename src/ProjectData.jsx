@@ -1,5 +1,16 @@
 export default [
 
+   {
+    headline: "KIA Website Clone (Home Page Only)",
+   label: "REACT.JS",
+    description:
+      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
+    tech: ["React", "JavaScript", "Tailwind"],
+    buttonOne: "https://github.com/JAldo1980/kia-website-clone",
+    buttonTwo: "https://kia-clone.netlify.app/",
+    image: "/monzo-img-removebg-preview.png",
+  },
+   
 
    {
     headline: "Monzo Bank Clone (Home Page Only)",
