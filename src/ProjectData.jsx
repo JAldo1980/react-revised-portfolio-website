@@ -8,7 +8,7 @@ export default [
     tech: ["React", "JavaScript", "Tailwind"],
     buttonOne: "https://github.com/JAldo1980/kia-website-clone",
     buttonTwo: "https://kia-clone.netlify.app/",
-    image: "/monzo-img-removebg-preview.png",
+    image: "/kia-clone-ui.png",
   },
    
 
