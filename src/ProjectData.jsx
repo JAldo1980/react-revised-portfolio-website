@@ -4,7 +4,7 @@ export default [
     headline: "KIA Website Clone (Home Page Only)",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
+      "Replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
     tech: ["React", "JavaScript", "Tailwind"],
     buttonOne: "https://github.com/JAldo1980/kia-website-clone",
     buttonTwo: "https://kia-clone.netlify.app/",
@@ -15,7 +15,7 @@ export default [
     headline: "Professional Landing Page #1",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
+      "Focused on recreating UI and professional website presentation. Improving UI and its implementation, state-management, prop-management and form validation",
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
@@ -26,7 +26,7 @@ export default [
     headline: "Monzo Bank Clone (Home Page Only)",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind via a Monzo Bank clone",
+      "Proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind via a Monzo Bank clone",
     tech: ["React", "JavaScript", "Tailwind"],
     buttonOne: "https://github.com/JAldo1980/monzo-bank-clone",
     buttonTwo: "https://monzo-clone.netlify.app/",
