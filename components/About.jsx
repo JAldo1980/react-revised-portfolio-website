@@ -51,7 +51,7 @@ export default function About() {
           profound impact of web development and technology on optimising
           business operations ignited my determination to transition into a
           front-end web developer (with additional value adds such as digital
-          marketing expereince). Thank you for reading 😊
+          marketing experience). Thank you for reading 😊
         </p>
       </div>
     </div>
