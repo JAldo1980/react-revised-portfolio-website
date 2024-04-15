@@ -19,7 +19,7 @@ export default [
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
-    image: "/adrian foster.png",
+    image: "/adrian-foster.png",
   },
 
    {
@@ -41,7 +41,7 @@ export default [
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2",
     buttonTwo: "https://olivia-wilson-template.netlify.app/",
-    image: "/olivia wilson.png",
+    image: "/olivia-wilson.png",
   },
    
   {
