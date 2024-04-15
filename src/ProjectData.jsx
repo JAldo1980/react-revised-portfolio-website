@@ -19,7 +19,7 @@ export default [
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
-    image: "/kia-clone-ui.png",
+    image: "/adrian foster.png",
   },
    
 
