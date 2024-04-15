@@ -12,10 +12,10 @@ export default [
   },
 
    {
-    headline: "Professional Landing Page (Personal)",
+    headline: "Professional Landing Page #1",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
+      "Focused on replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
@@ -34,10 +34,10 @@ export default [
   },
 
         {
-    headline: "Professional Landing Page (Personal)",
+    headline: "Professional Landing Page #2",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
+      "Focused on replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2",
     buttonTwo: "https://olivia-wilson-template.netlify.app/",
