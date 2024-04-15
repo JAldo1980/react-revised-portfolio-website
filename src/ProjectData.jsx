@@ -15,13 +15,12 @@ export default [
     headline: "Professional Landing Page (Personal)",
    label: "REACT.JS",
     description:
-      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
+      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
     tech: ["React", "JavaScript",],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
     image: "/adrian foster.png",
   },
-   
 
    {
     headline: "Monzo Bank Clone (Home Page Only)",
@@ -33,6 +32,18 @@ export default [
     buttonTwo: "https://monzo-clone.netlify.app/",
     image: "/monzo-img-removebg-preview.png",
   },
+
+        {
+    headline: "Professional Landing Page (Personal)",
+   label: "REACT.JS",
+    description:
+      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
+    tech: ["React", "JavaScript",],
+    buttonOne: "https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2",
+    buttonTwo: "https://olivia-wilson-template.netlify.app/",
+    image: "/olivia wilson.png",
+  },
+   
   {
     headline: "Small Business Landing Page",
     label: "REACT.JS",
