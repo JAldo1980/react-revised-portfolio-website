@@ -10,6 +10,17 @@ export default [
     buttonTwo: "https://kia-clone.netlify.app/",
     image: "/kia-clone-ui.png",
   },
+
+   {
+    headline: "Professional Landing Page (Personal)",
+   label: "REACT.JS",
+    description:
+      "Focused on replicating UI and proffesional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
+    tech: ["React", "JavaScript",],
+    buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
+    buttonTwo: "https://adrian-foster.netlify.app/",
+    image: "/kia-clone-ui.png",
+  },
    
 
    {
