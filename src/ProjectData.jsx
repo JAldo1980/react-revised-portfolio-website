@@ -3,7 +3,7 @@ export default [
     headline: "Recruitment Website (UI Focus)",
    label: "REACT.JS",
     description:
-      "Professional website presentation. Testing my React Router skills, UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
+      "Professional website presentation. Testing my React Router skills, UI implementation, UX understanding as well as state-management, prop-management and Tailwind.",
     tech: ["React", "JavaScript", "Tailwind"],
     buttonOne: "https://github.com/JAldo1980/myTeam-recruitment",
     buttonTwo: "https://myteam-recruitment.netlify.app/",
