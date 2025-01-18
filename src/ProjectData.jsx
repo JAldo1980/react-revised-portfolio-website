@@ -1,7 +1,17 @@
 export default [
-      {
+  {
+    headline: "Executive Therapy Website",
+    label: "REACT.JS",
+    description:
+      "Professional website presentation. UI implementation, component build, state-management, prop-management and TypeScript.",
+    tech: ["React", "JavaScript", "TypeScript"],
+
+    buttonTwo: "https://thecircleline.co.uk/",
+    image: "/the-circle-line-website.png",
+  },
+  {
     headline: "Recruitment Website (UI Focus)",
-   label: "REACT.JS",
+    label: "REACT.JS",
     description:
       "Professional website presentation. Testing my React Router skills, UI implementation, UX understanding as well as state-management, prop-management and Tailwind.",
     tech: ["React", "JavaScript", "Tailwind"],
@@ -10,9 +20,9 @@ export default [
     image: "/myTeam-removebg-preview.png",
   },
 
-   {
+  {
     headline: "KIA Website Clone (Home Page Only)",
-   label: "REACT.JS",
+    label: "REACT.JS",
     description:
       "Replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind by cloning KIA's Home page",
     tech: ["React", "JavaScript", "Tailwind"],
@@ -21,20 +31,20 @@ export default [
     image: "/kia-clone-ui.png",
   },
 
-   {
+  {
     headline: "Professional Landing Page #1",
-   label: "REACT.JS",
+    label: "REACT.JS",
     description:
       "Focused on recreating UI and professional website presentation. Improving UI and its implementation, state-management, prop-management and form validation",
-    tech: ["React", "JavaScript",],
+    tech: ["React", "JavaScript"],
     buttonOne: "https://github.com/JAldo1980/react-adrian-foster",
     buttonTwo: "https://adrian-foster.netlify.app/",
     image: "/adrian-foster.png",
   },
 
-   {
+  {
     headline: "Monzo Bank Clone (Home Page Only)",
-   label: "REACT.JS",
+    label: "REACT.JS",
     description:
       "Professional website presentation. Testing my UI implementation, UX understanding as well as state-management and prop-management and Tailwind via a Monzo Bank clone",
     tech: ["React", "JavaScript", "Tailwind"],
@@ -43,17 +53,18 @@ export default [
     image: "/monzo-img-removebg-preview.png",
   },
 
-        {
+  {
     headline: "Professional Landing Page #2",
-   label: "REACT.JS",
+    label: "REACT.JS",
     description:
       "Focused on replicating UI and professional website presentation. Testing my UI implementation, UX understanding as well as state-management, prop-management and form validation",
-    tech: ["React", "JavaScript",],
-    buttonOne: "https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2",
+    tech: ["React", "JavaScript"],
+    buttonOne:
+      "https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2",
     buttonTwo: "https://olivia-wilson-template.netlify.app/",
     image: "/olivia-wilson.png",
   },
-   
+
   {
     headline: "Small Business Landing Page",
     label: "REACT.JS",
