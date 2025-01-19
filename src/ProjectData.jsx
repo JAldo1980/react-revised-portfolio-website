@@ -1,9 +1,19 @@
 export default [
   {
+    headline: "Software Company Website",
+    label: "JavaScript",
+    description:
+      "a pure HTML, CSS & JavaScript redesign and build of a local software company website homepage",
+    tech: ["JavaScript", "HTML", "CSS"],
+    buttonOne: "https://github.com/JAldo1980/parker-software-flat",
+    buttonTwo: "https://parker-software-javascript.netlify.app/",
+    image: "/parker-software-website.png",
+  },
+  {
     headline: "Executive Therapy Website",
     label: "REACT.JS",
     description:
-      "Professional website presentation. UI implementation, component build, state-management, prop-management and TypeScript.",
+      "Professional website built for an Executive Therapist Company. UI implementation, component build, state-management, prop-management and TypeScript.",
     tech: ["React", "JavaScript", "TypeScript"],
 
     buttonTwo: "https://thecircleline.co.uk/",
