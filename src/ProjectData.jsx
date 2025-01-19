@@ -1,9 +1,9 @@
 export default [
   {
-    headline: "Software Company Website",
+    headline: "Software Company Website (Homepage)",
     label: "JavaScript",
     description:
-      "a pure HTML, CSS & JavaScript redesign and build of a local software company website homepage",
+      "A pure HTML, CSS & JavaScript redesign and build of a local software company website homepage",
     tech: ["JavaScript", "HTML", "CSS"],
     buttonOne: "https://github.com/JAldo1980/parker-software-flat",
     buttonTwo: "https://parker-software-javascript.netlify.app/",
