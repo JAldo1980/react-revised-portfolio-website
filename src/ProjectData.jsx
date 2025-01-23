@@ -1,7 +1,7 @@
 export default [
     {
     headline: "Slack Mockup (Homepage)",
-    label: "PHP, JavaScript, HTML, CSS",
+    label: "PHP",
     description:
       "This project recreates Slack's homepage using PHP and CSS. The index.php file dynamically assembles content from various PHP files, while style.css provides consistent styling with flexbox for a polished, responsive layout.",
     tech: ["PHP", "JavaScript", "HTML", "CSS"],
