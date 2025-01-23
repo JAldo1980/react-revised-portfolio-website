@@ -8,7 +8,7 @@ export default function About() {
          <br></br>
          <p>
           Current tech used:{" "}
-          <strong>Node, React, JavaScript, Tailwind, CSS, HTML, WordPress</strong>
+          <strong>Node, React, JavaScript, Tailwind, CSS, HTML, PHP, WordPress</strong>
         </p>
         <br></br>
         <p>
@@ -18,8 +18,7 @@ export default function About() {
         <br></br>
         <p>
           In my continual pursuit of professional development, I actively refine
-          my skills in Node, React, JavaScript, CSS, and HTML. My core objective
-          early this year is to craft MERN stack applications, equipping me with
+          my skills in Node, React, JavaScript, PHP, CSS, and HTML - equipping me with
           the capability to provide tailored solutions that address your
           specific business challenges.
         </p>
