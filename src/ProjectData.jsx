@@ -1,14 +1,5 @@
 export default [
-    {
-    headline: "Slack Mockup (Homepage)",
-    label: "PHP",
-    description:
-      "This project recreates Slack's homepage using PHP and CSS. The index.php file dynamically assembles content from various PHP files, while style.css provides consistent styling with flexbox for a polished, responsive layout.",
-    tech: ["PHP", "JavaScript", "HTML", "CSS"],
-    buttonOne: "https://github.com/JAldo1980/php-landing-page",
-    buttonTwo: "http://james-codes.fwh.is/?i=1",
-    image: "/slack-homepage.png",
-  },
+
   {
     headline: "Software Company Website (Homepage)",
     label: "JavaScript",
@@ -115,6 +106,16 @@ export default [
     buttonOne: "https://github.com/JAldo1980/elearning-landing-page",
     buttonTwo: "https://helpful-bublanina-545078.netlify.app/",
     image: "/elearning-landing-page-img-removebg-preview.png",
+  },
+       {
+    headline: "Slack Mockup (Homepage)",
+    label: "PHP",
+    description:
+      "This project recreates Slack's homepage using PHP and CSS. The index.php file dynamically assembles content from various PHP files, while style.css provides consistent styling with flexbox for a polished, responsive layout.",
+    tech: ["PHP", "JavaScript", "HTML", "CSS"],
+    buttonOne: "https://github.com/JAldo1980/php-landing-page",
+    buttonTwo: "http://james-codes.fwh.is/?i=1",
+    image: "/slack-homepage.png",
   },
   {
     headline: "Music App Landing Page",
