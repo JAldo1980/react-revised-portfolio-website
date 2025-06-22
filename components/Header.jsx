@@ -9,7 +9,7 @@ export default function Header() {
         <div className="header-left-col">
           <h1 id="home-anchor">
             Hi, my name is <span>James Alderman</span>
-            React Developer in Birmingham, UK
+            React Developer in Stafford, UK
           </h1>
 
           <a href="#project-scroll">
