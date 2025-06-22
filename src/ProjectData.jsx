@@ -1,15 +1,4 @@
 export default [
-
-  {
-    headline: "Software Company Website (Homepage)",
-    label: "JavaScript",
-    description:
-      "A pure HTML, CSS & JavaScript redesign and build of a local software company website homepage",
-    tech: ["JavaScript", "HTML", "CSS"],
-    buttonOne: "https://github.com/JAldo1980/parker-software-flat",
-    buttonTwo: "https://parker-software-javascript.netlify.app/",
-    image: "/parker-software-website.png",
-  },
   {
     headline: "Executive Therapy Website",
     label: "REACT.JS",
@@ -116,6 +105,16 @@ export default [
     buttonOne: "https://github.com/JAldo1980/php-landing-page",
     buttonTwo: "http://james-codes.fwh.is/?i=1",
     image: "/slack-homepage.png",
+  },
+   {
+    headline: "Software Company Website (Homepage)",
+    label: "JavaScript",
+    description:
+      "A pure HTML, CSS & JavaScript redesign and build of a local software company website homepage",
+    tech: ["JavaScript", "HTML", "CSS"],
+    buttonOne: "https://github.com/JAldo1980/parker-software-flat",
+    buttonTwo: "https://parker-software-javascript.netlify.app/",
+    image: "/parker-software-website.png",
   },
   {
     headline: "Music App Landing Page",
